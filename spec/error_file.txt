@@ -1,0 +1,16 @@
+Test run for /home/user/projects/example/tests/bin/Debug/netcoreapp3.1/tests.dll(.NETCoreApp,Version=v3.1)
+Starting test execution, please wait...
+
+A total of 1 test files matched the specified pattern.
+  X AfterSelectRandomWordSelectedMembersShouldNotBeEmpty [29ms]
+  Error Message:
+   Assert.IsTrue failed.
+  Stack Trace:
+     at tests.UnitTest1.AfterSelectRandomWordSelectedMembersShouldNotBeEmpty() in /home/user/projects/example/tests/UnitTest1.cs:line 39
+
+
+Test Run Failed.
+Total tests: 10
+     Passed: 9
+     Failed: 1
+ Total time: 1.0145 Seconds
